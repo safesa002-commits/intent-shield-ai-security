@@ -1,0 +1,5 @@
+{
+  "allowed_actions": ["read_file", "semantic_search", "generate_report"],
+  "blocked_actions": ["execute_bash", "delete_file", "exfiltrate_data"],
+  "strict_mode": true
+}
